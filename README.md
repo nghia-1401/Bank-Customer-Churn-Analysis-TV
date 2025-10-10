@@ -5,7 +5,7 @@ Dự án này thực hiện phân tích bộ dữ liệu về khách hàng của
 ## 2. Bối cảnh
 
 ## 3. Nguồn dữ liệu 
-(https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)
+(https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)  
 Bộ dữ liệu được sử dụng trong dự án này là Bank Customer Churn Prediction, lấy từ nền tảng Kaggle. Dữ liệu bao gồm 10,000 bản ghi về khách hàng với các thông tin nhân khẩu học và tài chính như:
 ## 4. Công cụ và thư viện
 
