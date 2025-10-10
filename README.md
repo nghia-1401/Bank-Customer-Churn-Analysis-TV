@@ -33,12 +33,12 @@ Bộ dữ liệu được sử dụng trong dự án này là Bank Customer Chur
 - Thư viện Machine Learning:
   + Scikit-learn: Xây dựng, huấn luyện và đánh giá mô hình học máy.
 ## 5. Quy trình thực hiện
-Bước 1. Khám phá dữ liệu (EDA): Kiểm tra cấu trúc, thông tin, và các thống kê mô tả của dữ liệu.
-Bước 2. Làm sạch & Tiền xử lý: Xử lý các giá trị thiếu (nếu có), chuẩn hóa và mã hóa dữ liệu.
-Bước 3. Trực quan hóa & Phân tích chuyên sâu: Sử dụng biểu đồ để tìm ra các mối quan hệ và các yếu tố chính ảnh hưởng đến tỷ lệ churn.
-Bước 4. Xây dựng mô hình: Huấn luyện mô hình hồi quy logistic để dự đoán khả năng rời bỏ của khách hàng.
-Bước 5. Đánh giá mô hình: Đo lường hiệu suất của mô hình bằng các chỉ số như Accuracy, Precision, Recall, F1-score và Ma trận nhầm lẫn.
-Bước 6. Tổng kết & Đề xuất: Tóm tắt các insight quan trọng và đưa ra các chiến lược kinh doanh cụ thể.
+Bước 1. Khám phá dữ liệu (EDA): Kiểm tra cấu trúc, thông tin, và các thống kê mô tả của dữ liệu.  
+Bước 2. Làm sạch & Tiền xử lý: Xử lý các giá trị thiếu (nếu có), chuẩn hóa và mã hóa dữ liệu.  
+Bước 3. Trực quan hóa & Phân tích chuyên sâu: Sử dụng biểu đồ để tìm ra các mối quan hệ và các yếu tố chính ảnh hưởng đến tỷ lệ churn.  
+Bước 4. Xây dựng mô hình: Huấn luyện mô hình hồi quy logistic để dự đoán khả năng rời bỏ của khách hàng.  
+Bước 5. Đánh giá mô hình: Đo lường hiệu suất của mô hình bằng các chỉ số như Accuracy, Precision, Recall, F1-score và Ma trận nhầm lẫn.  
+Bước 6. Tổng kết & Đề xuất: Tóm tắt các insight quan trọng và đưa ra các chiến lược kinh doanh cụ thể.  
 ## 6. Các kết quả phân tích chính
 - Tỷ lệ rời bỏ: Khoảng 20.4% khách hàng trong bộ dữ liệu đã rời bỏ, đây là một con số đáng kể.
 - Nhân khẩu học:
