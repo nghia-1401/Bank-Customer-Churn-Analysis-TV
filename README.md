@@ -43,7 +43,7 @@ Bước 5. Đánh giá mô hình: Đo lường hiệu suất của mô hình b�
 Bước 6. Tổng kết & Đề xuất: Tóm tắt các insight quan trọng và đưa ra các chiến lược kinh doanh cụ thể.  
 ## 6. Các kết quả phân tích chính
 - Tỷ lệ rời bỏ: Khoảng 20.4% khách hàng trong bộ dữ liệu đã rời bỏ, đây là một con số đáng kể.
-- Khiếu nại (Complain) là yếu tổ quan trọng nhất để dự báo tỷ lệ rời đi của khách hàng.
+- Khiếu nại (Complain) là yếu tổ quan trọng nhất để dự báo tỷ lệ rời đi của khách hàng. Ngoài ra, độ tuổi (age) và khách hàng hoạt động (IsActiveMember) cũng là các yếu tố quan trọng giúp dự báo tỷ lệ rời đi của khách hàng
 - Nhân khẩu học:
   + Địa lý: Khách hàng tại Đức có tỷ lệ rời bỏ cao vượt trội (32.4%).
   + Giới tính: Tỷ lệ khách hàng nữ rời bỏ (25.1%) cao hơn đáng kể so với nam giới (16.5%).
